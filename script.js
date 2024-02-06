@@ -50,3 +50,8 @@ addTarget.setAttribute("target", "_blank");
 const Li2 = document.querySelector("#b ul");
 const addColorLi2 = Li2.querySelectorAll("li")[1];
 addColorLi2.style.backgroundColor = "darkorange";
+
+const heading=document.querySelector("#c .heading");
+heading.style.backgroundColor="blue";
+heading.style.Color="green";
+
